@@ -1,5 +1,10 @@
 # 💫 About Me:
-<br>👯 I’m looking to collaborate on<br>
+
+## Hello there, I'm Misael 👋
+
+I'm currently a Software Engineering student at Fontys Hogeschool. I'm passionate about building practical, user-centered applications with clean architecture, modern web technologies, and strong backend foundations.<br><br>
+
+👯 I’m looking to collaborate on<br>
 Full-stack web applications, mobile applications, student-focused tools, and projects that solve real-world problems.<br><br>
 
 🤝 I’m looking for help with<br>
